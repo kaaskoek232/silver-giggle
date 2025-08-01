@@ -1,4 +1,4 @@
-#!/bin/bash
+﻿#!/bin/bash
 
 # Deploy fixes to RunPod ComfyUI
 echo "Deploying ComfyUI fixes to RunPod..."
